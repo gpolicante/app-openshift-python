@@ -1,0 +1,3 @@
+yum -y install epel-release
+yum -y install vim python python-pip
+pip install flask
